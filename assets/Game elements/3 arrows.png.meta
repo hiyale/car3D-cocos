@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "251ba1fc-cdcc-4a1a-ad94-1be3b8aaf48a",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "251ba1fc-cdcc-4a1a-ad94-1be3b8aaf48a@6c48a",
+      "displayName": "3 arrows",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "251ba1fc-cdcc-4a1a-ad94-1be3b8aaf48a"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "251ba1fc-cdcc-4a1a-ad94-1be3b8aaf48a@6c48a"
+  }
+}

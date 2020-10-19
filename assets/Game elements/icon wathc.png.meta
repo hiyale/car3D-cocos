@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "dcef8de2-cf62-4be5-b854-5947cae5798e",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "dcef8de2-cf62-4be5-b854-5947cae5798e@6c48a",
+      "displayName": "icon wathc",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dcef8de2-cf62-4be5-b854-5947cae5798e"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "dcef8de2-cf62-4be5-b854-5947cae5798e@f9941",
+      "displayName": "icon wathc",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -0.5,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 57,
+        "height": 62,
+        "rawWidth": 58,
+        "rawHeight": 62,
+        "borderTop": 22,
+        "borderBottom": 15,
+        "borderLeft": 14,
+        "borderRight": 14,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dcef8de2-cf62-4be5-b854-5947cae5798e@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "dcef8de2-cf62-4be5-b854-5947cae5798e@f9941"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "adf9cd75-28b7-4bc7-9896-1467b6180f92",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "adf9cd75-28b7-4bc7-9896-1467b6180f92@6c48a",
+      "displayName": "icon lift",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "adf9cd75-28b7-4bc7-9896-1467b6180f92"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "adf9cd75-28b7-4bc7-9896-1467b6180f92@f9941",
+      "displayName": "icon lift",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -1,
+        "offsetY": -0.5,
+        "trimX": 0,
+        "trimY": 1,
+        "width": 40,
+        "height": 39,
+        "rawWidth": 42,
+        "rawHeight": 40,
+        "borderTop": 9,
+        "borderBottom": 10,
+        "borderLeft": 7,
+        "borderRight": 11,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "adf9cd75-28b7-4bc7-9896-1467b6180f92@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "adf9cd75-28b7-4bc7-9896-1467b6180f92@f9941"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "ver": "1.3.21",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "71bfa7f1-378b-40d2-bf83-7b290eb86e4d",
+  "files": [],
+  "subMetas": {
+    "963e7": {
+      "importer": "gltf-mesh",
+      "uuid": "71bfa7f1-378b-40d2-bf83-7b290eb86e4d@963e7",
+      "displayName": "",
+      "id": "963e7",
+      "name": "Crack_1.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "332cc": {
+      "importer": "gltf-material",
+      "uuid": "71bfa7f1-378b-40d2-bf83-7b290eb86e4d@332cc",
+      "displayName": "",
+      "id": "332cc",
+      "name": "Arc_Black.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "482ab": {
+      "importer": "gltf-scene",
+      "uuid": "71bfa7f1-378b-40d2-bf83-7b290eb86e4d@482ab",
+      "displayName": "",
+      "id": "482ab",
+      "name": "Crack_1.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "71bfa7f1-378b-40d2-bf83-7b290eb86e4d@482ab",
+    "assetFinder": {
+      "meshes": [
+        "71bfa7f1-378b-40d2-bf83-7b290eb86e4d@963e7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "71bfa7f1-378b-40d2-bf83-7b290eb86e4d@332cc"
+      ],
+      "scenes": [
+        "71bfa7f1-378b-40d2-bf83-7b290eb86e4d@482ab"
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.Material",
+  "_name": "Suspension",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_ALBEDO_MAP": true
+    }
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {}
+    }
+  ],
+  "_props": [
+    {
+      "mainTexture": {
+        "__uuid__": "569c1dba-ba18-45b5-8594-0f28e15b8159@3effa"
+      },
+      "albedoScale": {
+        "__type__": "cc.Vec3",
+        "x": 0.8,
+        "y": 0.8,
+        "z": 0.8
+      },
+      "metallic": 0,
+      "roughness": 0.5,
+      "emissiveScale": {
+        "__type__": "cc.Vec4",
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "alphaThreshold": 0
+    }
+  ]
+}

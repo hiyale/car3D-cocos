@@ -1,0 +1,75 @@
+{
+  "ver": "1.3.21",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "ecda9f8a-907a-49c4-9be9-678f5e45fc4f",
+  "files": [],
+  "subMetas": {
+    "81505": {
+      "importer": "gltf-scene",
+      "uuid": "ecda9f8a-907a-49c4-9be9-678f5e45fc4f@81505",
+      "displayName": "",
+      "id": "81505",
+      "name": "Montain_4.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "a45bb": {
+      "importer": "gltf-mesh",
+      "uuid": "ecda9f8a-907a-49c4-9be9-678f5e45fc4f@a45bb",
+      "displayName": "",
+      "id": "a45bb",
+      "name": "Montain_4.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "04f95": {
+      "importer": "gltf-material",
+      "uuid": "ecda9f8a-907a-49c4-9be9-678f5e45fc4f@04f95",
+      "displayName": "",
+      "id": "04f95",
+      "name": "Montain_.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "ecda9f8a-907a-49c4-9be9-678f5e45fc4f@81505",
+    "assetFinder": {
+      "meshes": [
+        "ecda9f8a-907a-49c4-9be9-678f5e45fc4f@a45bb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ecda9f8a-907a-49c4-9be9-678f5e45fc4f@04f95"
+      ],
+      "scenes": [
+        "ecda9f8a-907a-49c4-9be9-678f5e45fc4f@81505"
+      ]
+    }
+  }
+}

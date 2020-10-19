@@ -1,0 +1,145 @@
+{
+  "ver": "1.3.21",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "e337892c-9e7f-4b94-b18d-35fc3f66039a",
+  "files": [],
+  "subMetas": {
+    "4979a": {
+      "importer": "gltf-mesh",
+      "uuid": "e337892c-9e7f-4b94-b18d-35fc3f66039a@4979a",
+      "displayName": "",
+      "id": "4979a",
+      "name": "Rim_Front_Right.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "5e4b3": {
+      "importer": "gltf-mesh",
+      "uuid": "e337892c-9e7f-4b94-b18d-35fc3f66039a@5e4b3",
+      "displayName": "",
+      "id": "5e4b3",
+      "name": "Tyre_Front_Right-Tire.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "ec2c6": {
+      "importer": "gltf-mesh",
+      "uuid": "e337892c-9e7f-4b94-b18d-35fc3f66039a@ec2c6",
+      "displayName": "",
+      "id": "ec2c6",
+      "name": "Tyre_Front_Right-Red.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "866c3": {
+      "importer": "gltf-material",
+      "uuid": "e337892c-9e7f-4b94-b18d-35fc3f66039a@866c3",
+      "displayName": "",
+      "id": "866c3",
+      "name": "Rim.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "a85d6": {
+      "importer": "gltf-material",
+      "uuid": "e337892c-9e7f-4b94-b18d-35fc3f66039a@a85d6",
+      "displayName": "",
+      "id": "a85d6",
+      "name": "Tire.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "5fd32": {
+      "importer": "gltf-material",
+      "uuid": "e337892c-9e7f-4b94-b18d-35fc3f66039a@5fd32",
+      "displayName": "",
+      "id": "5fd32",
+      "name": "Red.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "c8e9c": {
+      "importer": "gltf-scene",
+      "uuid": "e337892c-9e7f-4b94-b18d-35fc3f66039a@c8e9c",
+      "displayName": "",
+      "id": "c8e9c",
+      "name": "Tyre_Front_Right.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "e337892c-9e7f-4b94-b18d-35fc3f66039a@c8e9c",
+    "assetFinder": {
+      "meshes": [
+        "e337892c-9e7f-4b94-b18d-35fc3f66039a@4979a",
+        "e337892c-9e7f-4b94-b18d-35fc3f66039a@5e4b3",
+        "e337892c-9e7f-4b94-b18d-35fc3f66039a@ec2c6"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e337892c-9e7f-4b94-b18d-35fc3f66039a@866c3",
+        "e337892c-9e7f-4b94-b18d-35fc3f66039a@a85d6",
+        "e337892c-9e7f-4b94-b18d-35fc3f66039a@5fd32"
+      ],
+      "scenes": [
+        "e337892c-9e7f-4b94-b18d-35fc3f66039a@c8e9c"
+      ]
+    }
+  }
+}

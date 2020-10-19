@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "4bd50980-056e-41c3-8d66-60b49b0745a9",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "4bd50980-056e-41c3-8d66-60b49b0745a9@6c48a",
+      "displayName": "TEL product2",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4bd50980-056e-41c3-8d66-60b49b0745a9"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "4bd50980-056e-41c3-8d66-60b49b0745a9@f9941",
+      "displayName": "TEL product2",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 2,
+        "offsetY": 71.5,
+        "trimX": 2296,
+        "trimY": 2462,
+        "width": 1401,
+        "height": 3917,
+        "rawWidth": 5989,
+        "rawHeight": 8984,
+        "borderTop": 575,
+        "borderBottom": 525,
+        "borderLeft": 275,
+        "borderRight": 250,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4bd50980-056e-41c3-8d66-60b49b0745a9@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "4bd50980-056e-41c3-8d66-60b49b0745a9@f9941"
+  }
+}

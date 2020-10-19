@@ -1,0 +1,133 @@
+{
+  "ver": "1.3.21",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f5b95e9c-93df-489f-9bdc-ee4fea400599",
+  "files": [],
+  "subMetas": {
+    "36034": {
+      "importer": "gltf-scene",
+      "uuid": "f5b95e9c-93df-489f-9bdc-ee4fea400599@36034",
+      "displayName": "",
+      "id": "36034",
+      "name": "New_Arc_LOGO.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "cc13c": {
+      "importer": "gltf-mesh",
+      "uuid": "f5b95e9c-93df-489f-9bdc-ee4fea400599@cc13c",
+      "displayName": "",
+      "id": "cc13c",
+      "name": "LOGO_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "0b1d5": {
+      "importer": "gltf-mesh",
+      "uuid": "f5b95e9c-93df-489f-9bdc-ee4fea400599@0b1d5",
+      "displayName": "",
+      "id": "0b1d5",
+      "name": "Frame_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "0049f": {
+      "importer": "gltf-mesh",
+      "uuid": "f5b95e9c-93df-489f-9bdc-ee4fea400599@0049f",
+      "displayName": "",
+      "id": "0049f",
+      "name": "Base_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "ae73b": {
+      "importer": "gltf-mesh",
+      "uuid": "f5b95e9c-93df-489f-9bdc-ee4fea400599@ae73b",
+      "displayName": "",
+      "id": "ae73b",
+      "name": "Bolts_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "08017": {
+      "importer": "gltf-mesh",
+      "uuid": "f5b95e9c-93df-489f-9bdc-ee4fea400599@08017",
+      "displayName": "",
+      "id": "08017",
+      "name": "Banner_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "f5b95e9c-93df-489f-9bdc-ee4fea400599@36034",
+    "assetFinder": {
+      "meshes": [
+        "f5b95e9c-93df-489f-9bdc-ee4fea400599@cc13c",
+        "f5b95e9c-93df-489f-9bdc-ee4fea400599@0b1d5",
+        "f5b95e9c-93df-489f-9bdc-ee4fea400599@0049f",
+        "f5b95e9c-93df-489f-9bdc-ee4fea400599@ae73b",
+        "f5b95e9c-93df-489f-9bdc-ee4fea400599@08017"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "56967b1a-e779-4154-bb7f-1e489e9aa616",
+        "ac471b9a-7782-4821-b182-ebe2563af6a1"
+      ],
+      "scenes": [
+        "f5b95e9c-93df-489f-9bdc-ee4fea400599@36034"
+      ]
+    },
+    "dumpMaterials": true
+  }
+}
