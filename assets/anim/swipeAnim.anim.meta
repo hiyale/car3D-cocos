@@ -1,0 +1,13 @@
+{
+  "ver": "1.0.10",
+  "importer": "animation-clip",
+  "imported": true,
+  "uuid": "524e77c2-7b16-408b-a629-aaae79e8da93",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "name": "swipeAnim"
+  }
+}

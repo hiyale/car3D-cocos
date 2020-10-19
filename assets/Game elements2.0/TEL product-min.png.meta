@@ -2,7 +2,7 @@
   "ver": "1.0.18",
   "importer": "image",
   "imported": true,
-  "uuid": "7fc3e51a-e26c-42f2-969e-73cb6ab6b614",
+  "uuid": "65a880c6-856c-49ae-b584-e9d35b62259d",
   "files": [
     ".png",
     ".json"
@@ -10,8 +10,8 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "7fc3e51a-e26c-42f2-969e-73cb6ab6b614@6c48a",
-      "displayName": "newSwipe",
+      "uuid": "65a880c6-856c-49ae-b584-e9d35b62259d@6c48a",
+      "displayName": "TEL product-min",
       "id": "6c48a",
       "name": "texture",
       "ver": "1.0.19",
@@ -29,13 +29,13 @@
         "premultiplyAlpha": false,
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "7fc3e51a-e26c-42f2-969e-73cb6ab6b614"
+        "imageUuidOrDatabaseUri": "65a880c6-856c-49ae-b584-e9d35b62259d"
       }
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "7fc3e51a-e26c-42f2-969e-73cb6ab6b614@f9941",
-      "displayName": "newSwipe",
+      "uuid": "65a880c6-856c-49ae-b584-e9d35b62259d@f9941",
+      "displayName": "TEL product-min",
       "id": "f9941",
       "name": "spriteFrame",
       "ver": "1.0.8",
@@ -48,26 +48,26 @@
         "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
-        "offsetX": 19,
-        "offsetY": 8,
-        "trimX": 90,
-        "trimY": 40,
-        "width": 124,
-        "height": 65,
-        "rawWidth": 266,
-        "rawHeight": 161,
-        "borderTop": 16,
-        "borderBottom": 15,
-        "borderLeft": 23,
-        "borderRight": 18,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 1401,
+        "height": 3917,
+        "rawWidth": 1401,
+        "rawHeight": 3917,
+        "borderTop": 363,
+        "borderBottom": 636,
+        "borderLeft": 345,
+        "borderRight": 363,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "7fc3e51a-e26c-42f2-969e-73cb6ab6b614@6c48a",
+        "imageUuidOrDatabaseUri": "65a880c6-856c-49ae-b584-e9d35b62259d@6c48a",
         "atlasUuid": ""
       }
     }
   },
   "userData": {
     "type": "sprite-frame",
-    "redirect": "7fc3e51a-e26c-42f2-969e-73cb6ab6b614@f9941"
+    "redirect": "65a880c6-856c-49ae-b584-e9d35b62259d@f9941"
   }
 }

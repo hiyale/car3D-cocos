@@ -50,7 +50,7 @@ export class TabControl extends Component {
     radioTxt: LabelComponent = null //秒表数字
 
 
-    private _endPos: number = 5000     //赛车终点位置Z轴
+    private _endPos: number = 3000     //赛车终点位置Z轴
 
     public countArr = [0, 0, 0]
 
@@ -81,13 +81,7 @@ export class TabControl extends Component {
 
     start() {
 
-        cc.loader.onProgress = function (completedCount, totalCount, item) {
 
-            //先开监听
-
-          console.log(';加载种.........')
-
-        }.bind(this);
 
 
         // Your initialization goes here.
@@ -115,18 +109,18 @@ export class TabControl extends Component {
         const _posZ = this.mainCar.getWorldPosition().z;
         const temp = this._endPos - _posZ
 
-        if (Math.floor(temp) < 3630 && Math.floor(temp) > 1816) {
+        if (Math.floor(temp) < 2300 && Math.floor(temp) > 1150) {
             this._level = 2;    //进入第二关
-        } else if (Math.floor(temp) < 1816) {
+        } else if (Math.floor(temp) < 1150) {
             this._level = 3;    //进入第三关
         } else {
             this._level = 1;        //处于第一关
         }
-        // console.log(Math.floor(temp), this._level, '实时距离')
+        console.log(Math.floor(temp), this._level, '实时距离')
 
 
         //秒表更新
-        this._clock.fillRange = Number((temp / (5000 + 950)).toFixed(2))
+        this._clock.fillRange = Number((temp / (3000 + 950)).toFixed(2))
 
 
     }

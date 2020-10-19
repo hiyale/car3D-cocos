@@ -1,4 +1,6 @@
-import { _decorator, Component, Node, Vec3 } from 'cc';
+import { _decorator, Component, Node, Vec3, find } from 'cc';
+import { Car } from './Car';
+import { IconController } from './UIManager/IconController';
 const { ccclass, property } = _decorator;
 
 @ccclass('MidPointDistance')
@@ -43,6 +45,12 @@ export class MidPointDistance extends Component {
         displayOrder: 7
     })
     firstPointDistance:number = 0;
+    
+    @property({
+        type: Node,
+        displayOrder: 8
+    })
+    carManager:Node = null;
 
     private totalRoadLength:number = 0;
 
@@ -60,5 +68,18 @@ export class MidPointDistance extends Component {
         //console.log(this.replenishPoint.position.z);
         this.endPoint.position = new Vec3(this.endPoint.position.x, this.endPoint.position.y, liftZ + 3 * disZ);
         //console.log(this.endPoint.position.z);
+    }
+
+    update(){
+        const icons:IconController[] = find("ItemsManager").getComponentsInChildren(IconController);
+        if (this.carManager.position.z >= this.replenishPoint.position.z){
+            icons.forEach(ele => {
+                ele.showIcon("replenish");
+            });
+        }else if (this.carManager.position.z >= this.smoothPoint.position.z){
+            icons.forEach(ele => {
+                ele.showIcon("smooth");
+            });
+        }
     }
 }
