@@ -84796,7 +84796,7 @@
     "_priority": 0,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 90.8112217561879,
+      "width": 90.48122175618789,
       "height": 163.8
     },
     "_anchorPoint": {
@@ -84835,7 +84835,7 @@
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "2b009425-78fd-49a7-aaad-8b6e31c033bd"
+      "__uuid__": "43bcd289-e6c7-42fb-8cd3-b03ca675ae7a"
     },
     "_isSystemFontUsed": false,
     "_isItalic": true,
